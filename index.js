@@ -1,6 +1,6 @@
 var name = "Susan"
 var height = "70"
-parseInt(height)
+parseInt("height")
 
 
 // Don't worry about this
